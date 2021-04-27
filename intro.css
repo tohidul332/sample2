@@ -1,20 +1,37 @@
-h1 {
-    color: blue;
-    font-family: Gill Sans MT;
-    font-size: xx-large;
-    font-weight: bolder;
-   
 
-}
 
 h2 {
     color: teal;
     font-family: fantasy;
 }
-p {
-    color: burlywood;
-    font-size: medium;
-    font-family: fantasy;
-    font-weight: unset;
 
+a {
+    color: brown;
+    font-family: fantasy;
+}
+
+body {
+    background-color: azure;
+    text-align: center;
+    font-family: Aerial;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    background-color: brown;
+    color: darkblue;
+    font-size: 8em;
+    padding: 50px;
+}
+
+img {
+    height: 250px;
+}
+
+p {
+    background-color: bisque;
+    color: blue;
+    padding: 50px;
+    font-size: 2em;
 }
